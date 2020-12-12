@@ -1,0 +1,8 @@
+how to install the project 
+
+step 1 - open the godot project manager
+step 2 - click on the button that says scan
+step 3 - go to the folder where you dowloaded the project and cilck on the project folder
+step 3 - press on select this folder
+
+now you should be able to see the project in your project manager
